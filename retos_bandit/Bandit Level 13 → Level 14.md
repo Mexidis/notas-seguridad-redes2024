@@ -83,7 +83,7 @@ bandit14@bandit:~$
 
 # Información obtenida
 ```
-pwd level 14:   
+pwd level 14: C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY
 ```
 ## Notas Adicionales
 

@@ -1,16 +1,16 @@
 ## Objetivo
 
-The password for the next level is stored in the file **data.txt**, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work. Use mkdir with a hard to guess directory name. Or better, use the command “mktemp -d”. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+The password for the next level can be retrieved by submitting the password of the current level to **port 30000 on localhost**.
 ## Datos de Acceso al Nivel
 
 ```
-username: bandit13
-psw: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+username: bandit15
+psw: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
 
 ## Solución
 ```bash
-C:\Users\pac61>ssh bandit13@bandit.labs.overthewire.org -p 2220
+C:\Users\pac61>ssh bandit15@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
