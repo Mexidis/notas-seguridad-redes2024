@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos_bandit/Plantilla Level X.md",
+                "file": "picoCTF/binhexa/Binhexa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Plantilla Level X.md",
+                "file": "picoCTF/binhexa/Binhexa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Plantilla Level X.md",
+                "file": "picoCTF/binhexa/Binhexa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Plantilla Level X.md"
+                "file": "picoCTF/binhexa/Binhexa.md"
               }
             }
           }
@@ -148,6 +148,18 @@
   },
   "active": "5583f48f57a8c892",
   "lastOpenFiles": [
+    "picoCTF/binarysearch/Binary_search.md",
+    "picoCTF/binhexa/Binhexa.md",
+    "picoCTF/binhexa",
+    "picoCTF/bigzip/Big_Zip.md",
+    "picoCTF/Sin título.md",
+    "picoCTF/binarysearch/home/ctf-player/drop-in/guessing_game.sh",
+    "picoCTF/binarysearch/home/ctf-player/drop-in",
+    "picoCTF/binarysearch/home/ctf-player",
+    "picoCTF/binarysearch/home",
+    "picoCTF/binarysearch",
+    "picoCTF/2warm",
+    "picoCTF/2Warm.md",
     "retos_bandit/Bandit Level 0.md",
     "retos_bandit/Plantilla Level X.md",
     "README.md",
