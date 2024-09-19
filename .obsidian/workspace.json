@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/binhexa/Binhexa.md",
+                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/binhexa/Binhexa.md",
+                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/binhexa/Binhexa.md",
+                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/binhexa/Binhexa.md"
+                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md"
               }
             }
           }
@@ -148,23 +148,51 @@
   },
   "active": "5583f48f57a8c892",
   "lastOpenFiles": [
-    "picoCTF/binarysearch/Binary_search.md",
-    "picoCTF/binhexa/Binhexa.md",
-    "picoCTF/binhexa",
-    "picoCTF/bigzip/Big_Zip.md",
-    "picoCTF/Sin título.md",
-    "picoCTF/binarysearch/home/ctf-player/drop-in/guessing_game.sh",
-    "picoCTF/binarysearch/home/ctf-player/drop-in",
-    "picoCTF/binarysearch/home/ctf-player",
-    "picoCTF/binarysearch/home",
-    "picoCTF/binarysearch",
-    "picoCTF/2warm",
-    "picoCTF/2Warm.md",
-    "retos_bandit/Bandit Level 0.md",
-    "retos_bandit/Plantilla Level X.md",
-    "README.md",
-    "retos_bandit",
-    "LCO.md",
-    "cree un enlace.md"
+    "web_picoCTF/parte1/client_side_again/Pasted image 20240918211553.png",
+    "web_picoCTF/parte1/client_side_again/Pasted image 20240918211113.png",
+    "web_picoCTF/parte1/client_side_again/Pasted image 20240918210208.png",
+    "web_picoCTF/parte1/client_side_again/Pasted image 20240918210157.png",
+    "web_picoCTF/parte1/picobrowser/picobrowser.md",
+    "web_picoCTF/parte1/picobrowser/Pasted image 20240918205200.png",
+    "web_picoCTF/parte1/picobrowser/Pasted image 20240918204940.png",
+    "web_picoCTF/parte1/picobrowser/Pasted image 20240918204759.png",
+    "web_picoCTF/parte1/dont_use_client_side/Dont-use-client-side.md",
+    "web_picoCTF/parte1/dont_use_client_side/Pasted image 20240918195423.png",
+    "web_picoCTF/parte1/logon/Log-on.md",
+    "web_picoCTF/parte1/logon/Pasted image 20240918192945.png",
+    "web_picoCTF/parte1/logon/Pasted image 20240918192744.png",
+    "web_picoCTF/parte1/logon/Pasted image 20240918192538.png",
+    "web_picoCTF/parte1/where_are_the_robots/Where-are-the-robots.md",
+    "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md",
+    "web_picoCTF/parte1",
+    "web_picoCTF/parte1/client_side_again/Client-side-again.md",
+    "web_picoCTF/parte1/client_side_again",
+    "web_picoCTF/parte1/picobrowser",
+    "web_picoCTF/parte1/dont_use_client_side",
+    "web_picoCTF/parte1/logon",
+    "web_picoCTF/parte1/where_are_the_robots",
+    "picoCTF/useless/Useless.md",
+    "web_picoCTF/parte1/in5p3ct0r",
+    "web_picoCTF",
+    "picoCTF/special/Special.md",
+    "picoCTF/serpentine/Serpentine.md",
+    "picoCTF/serpentine/serpentine.py",
+    "picoCTF/serpentine/Sin confirmar 736507.crdownload",
+    "picoCTF/pw_crack_3/PW-crack-3.md",
+    "picoCTF/plumbing/Plumbing.md",
+    "picoCTF/permissions/Permissions.md",
+    "picoCTF/chrono/Chrono.md",
+    "picoCTF/based/Based.md",
+    "picoCTF/ascii_numbers/ASCII-Numbers.md",
+    "picoCTF/lets_warm_up/LetsWarmUP.md",
+    "picoCTF/whats_a_netcat/Whats-a-netcat.md",
+    "picoCTF/glitch_cat/GlitchCat.md",
+    "picoCTF/wave_a_flag/WaveFlag.md",
+    "picoCTF/time_machine/TimeMachine.md",
+    "picoCTF/warmed_up/WarmedUP.md",
+    "picoCTF/strings_it/StringsIt.md",
+    "picoCTF/nice_netcat/NiceNetcat.md",
+    "picoCTF/static_aint_always_nice/StaticAintAN.md",
+    "picoCTF/obedient_cat/ObedientCat.md"
   ]
 }
