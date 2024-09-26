@@ -11,15 +11,26 @@
             "id": "5583f48f57a8c892",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "web_picoCTF/parte3/get_ahead/Pasted image 20240925102546.png"
+              }
+            }
+          },
+          {
+            "id": "d2b7c6dc1274e94b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
+                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
+                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md",
+                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_picoCTF/parte1/client_side_again/Client-side-again.md"
+                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md"
               }
             }
           }
@@ -146,38 +157,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5583f48f57a8c892",
+  "active": "d2b7c6dc1274e94b",
   "lastOpenFiles": [
-    "web_picoCTF/parte1/client_side_again/Pasted image 20240918211553.png",
-    "web_picoCTF/parte1/client_side_again/Pasted image 20240918211113.png",
-    "web_picoCTF/parte1/client_side_again/Pasted image 20240918210208.png",
-    "web_picoCTF/parte1/client_side_again/Pasted image 20240918210157.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165030.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165020.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165006.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164934.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164854.png",
+    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164816.png",
+    "web_picoCTF/parte2/jawt_scratchpad/JaWT_Scratchpad.md",
+    "web_picoCTF/parte3/scavenger_hunt",
+    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113258.png",
+    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md",
+    "web_picoCTF/parte2/jawt_scratchpad",
+    "web_picoCTF/parte2/irish_name_repo3",
+    "web_picoCTF/parte2/Sin título.md",
+    "web_picoCTF/parte2/irish_name_repo2",
+    "web_picoCTF/parte2/irish_name_repo1",
+    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113425.png",
+    "web_picoCTF/parte3/get_ahead/GET_aHEAD.md",
+    "web_picoCTF/parte3/get_ahead/Pasted image 20240925102546.png",
+    "web_picoCTF/parte3/get_ahead/Pasted image 20240925103026.png",
+    "web_picoCTF/parte3/cokies/cookies.md",
+    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113620.png",
+    "web_picoCTF/parte3/get_ahead",
+    "web_picoCTF/parte3/cokies",
+    "retos_bandit/Bandit Level 9 → Level 10.md",
+    "web_picoCTF/parte2/irish_name_repo2/Irish-Name-Repo2.md",
+    "web_picoCTF/parte2/irish_name_repo1/Irish-Name-Repo1.md",
+    "web_picoCTF/parte1/client_side_again/Client-side-again.md",
     "web_picoCTF/parte1/picobrowser/picobrowser.md",
-    "web_picoCTF/parte1/picobrowser/Pasted image 20240918205200.png",
-    "web_picoCTF/parte1/picobrowser/Pasted image 20240918204940.png",
-    "web_picoCTF/parte1/picobrowser/Pasted image 20240918204759.png",
     "web_picoCTF/parte1/dont_use_client_side/Dont-use-client-side.md",
-    "web_picoCTF/parte1/dont_use_client_side/Pasted image 20240918195423.png",
     "web_picoCTF/parte1/logon/Log-on.md",
-    "web_picoCTF/parte1/logon/Pasted image 20240918192945.png",
-    "web_picoCTF/parte1/logon/Pasted image 20240918192744.png",
-    "web_picoCTF/parte1/logon/Pasted image 20240918192538.png",
     "web_picoCTF/parte1/where_are_the_robots/Where-are-the-robots.md",
     "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md",
     "web_picoCTF/parte1",
-    "web_picoCTF/parte1/client_side_again/Client-side-again.md",
     "web_picoCTF/parte1/client_side_again",
     "web_picoCTF/parte1/picobrowser",
-    "web_picoCTF/parte1/dont_use_client_side",
-    "web_picoCTF/parte1/logon",
-    "web_picoCTF/parte1/where_are_the_robots",
     "picoCTF/useless/Useless.md",
-    "web_picoCTF/parte1/in5p3ct0r",
-    "web_picoCTF",
     "picoCTF/special/Special.md",
     "picoCTF/serpentine/Serpentine.md",
-    "picoCTF/serpentine/serpentine.py",
-    "picoCTF/serpentine/Sin confirmar 736507.crdownload",
     "picoCTF/pw_crack_3/PW-crack-3.md",
     "picoCTF/plumbing/Plumbing.md",
     "picoCTF/permissions/Permissions.md",
@@ -185,14 +204,6 @@
     "picoCTF/based/Based.md",
     "picoCTF/ascii_numbers/ASCII-Numbers.md",
     "picoCTF/lets_warm_up/LetsWarmUP.md",
-    "picoCTF/whats_a_netcat/Whats-a-netcat.md",
-    "picoCTF/glitch_cat/GlitchCat.md",
-    "picoCTF/wave_a_flag/WaveFlag.md",
-    "picoCTF/time_machine/TimeMachine.md",
-    "picoCTF/warmed_up/WarmedUP.md",
-    "picoCTF/strings_it/StringsIt.md",
-    "picoCTF/nice_netcat/NiceNetcat.md",
-    "picoCTF/static_aint_always_nice/StaticAintAN.md",
-    "picoCTF/obedient_cat/ObedientCat.md"
+    "picoCTF/whats_a_netcat/Whats-a-netcat.md"
   ]
 }
