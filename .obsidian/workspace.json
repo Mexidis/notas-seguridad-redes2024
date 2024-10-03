@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/so_meta/So-Meta.md",
+                "file": "forensic/glory_of_the_garden/Glory-of-the-garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/so_meta/So-Meta.md",
+                "file": "forensic/glory_of_the_garden/Glory-of-the-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/so_meta/So-Meta.md",
+                "file": "forensic/glory_of_the_garden/Glory-of-the-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/so_meta/So-Meta.md"
+                "file": "forensic/glory_of_the_garden/Glory-of-the-garden.md"
               }
             }
           }
@@ -149,10 +149,15 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
+    "forensic/glory_of_the_garden/picture/garden.jpg",
+    "forensic/glory_of_the_garden/picture/pico_img.png",
+    "forensic/glory_of_the_garden/garden.jpg",
+    "forensic/glory_of_the_garden/picture",
+    "forensic/so_meta/So-Meta.md",
+    "forensic/glory_of_the_garden/Glory-of-the-garden.md",
     "forensic/so_meta/picture/pico_img.png",
     "forensic/so_meta/picture",
     "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
-    "forensic/so_meta/So-Meta.md",
     "forensic/what_lies_within",
     "forensic/shark_on_wire1",
     "forensic/glory_of_the_garden",
@@ -169,12 +174,8 @@
     "web_picoCTF/parte4/trickster/Pasted image 20241002001243.png",
     "web_picoCTF/parte4/trickster/Pasted image 20241002000619.png",
     "web_picoCTF/parte4/trickster/Pasted image 20241002000529.png",
-    "web_picoCTF/parte4/trickster/Pasted image 20241002000507.png",
-    "web_picoCTF/parte4/trickster/Pasted image 20241002000405.png",
     "web_picoCTF/parte4/trickster",
     "web_picoCTF/parte4/soap/SOAP.md",
-    "web_picoCTF/parte4/soap/Pasted image 20241001234139.png",
-    "web_picoCTF/parte4/soap",
     "web_picoCTF/parte3/cokies/cookies.md",
     "web_picoCTF/parte3/get_ahead/GET_aHEAD.md",
     "README.md",
@@ -193,7 +194,6 @@
     "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md",
     "picoCTF/useless/Useless.md",
     "picoCTF/special/Special.md",
-    "picoCTF/serpentine/Serpentine.md",
-    "picoCTF/pw_crack_3/PW-crack-3.md"
+    "picoCTF/serpentine/Serpentine.md"
   ]
 }
