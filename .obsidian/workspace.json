@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9596de93ae342f3b",
+        "id": "189487717a4eef78",
         "type": "tabs",
         "children": [
           {
-            "id": "5583f48f57a8c892",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "web_picoCTF/parte3/get_ahead/Pasted image 20240925102546.png"
-              }
-            }
-          },
-          {
-            "id": "d2b7c6dc1274e94b",
+            "id": "946f721b4054223a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
+                "file": "forensic/so_meta/So-Meta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be896a1ab4e253fe",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
+                "file": "forensic/so_meta/So-Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
+                "file": "forensic/so_meta/So-Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md"
+                "file": "forensic/so_meta/So-Meta.md"
               }
             }
           }
@@ -157,31 +147,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d2b7c6dc1274e94b",
+  "active": "946f721b4054223a",
   "lastOpenFiles": [
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165030.png",
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165020.png",
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926165006.png",
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164934.png",
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164854.png",
-    "web_picoCTF/parte3/scavenger_hunt/Pasted image 20240926164816.png",
-    "web_picoCTF/parte2/jawt_scratchpad/JaWT_Scratchpad.md",
-    "web_picoCTF/parte3/scavenger_hunt",
-    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113258.png",
-    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md",
-    "web_picoCTF/parte2/jawt_scratchpad",
-    "web_picoCTF/parte2/irish_name_repo3",
-    "web_picoCTF/parte2/Sin título.md",
-    "web_picoCTF/parte2/irish_name_repo2",
-    "web_picoCTF/parte2/irish_name_repo1",
-    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113425.png",
-    "web_picoCTF/parte3/get_ahead/GET_aHEAD.md",
-    "web_picoCTF/parte3/get_ahead/Pasted image 20240925102546.png",
-    "web_picoCTF/parte3/get_ahead/Pasted image 20240925103026.png",
+    "forensic/so_meta/picture/pico_img.png",
+    "forensic/so_meta/picture",
+    "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
+    "forensic/so_meta/So-Meta.md",
+    "forensic/what_lies_within",
+    "forensic/shark_on_wire1",
+    "forensic/glory_of_the_garden",
+    "forensic/extensions",
+    "forensic/so_meta",
+    "forensic",
+    "web_picoCTF/part5_forensics",
+    "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
+    "web_picoCTF/parte4/trickster/Trickster.md",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002001501.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002001452.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002001359.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002001315.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002001243.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002000619.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002000529.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002000507.png",
+    "web_picoCTF/parte4/trickster/Pasted image 20241002000405.png",
+    "web_picoCTF/parte4/trickster",
+    "web_picoCTF/parte4/soap/SOAP.md",
+    "web_picoCTF/parte4/soap/Pasted image 20241001234139.png",
+    "web_picoCTF/parte4/soap",
     "web_picoCTF/parte3/cokies/cookies.md",
-    "web_picoCTF/parte2/jawt_scratchpad/Pasted image 20240923113620.png",
-    "web_picoCTF/parte3/get_ahead",
-    "web_picoCTF/parte3/cokies",
+    "web_picoCTF/parte3/get_ahead/GET_aHEAD.md",
+    "README.md",
+    "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
+    "web_picoCTF/parte2/jawt_scratchpad/JaWT_Scratchpad.md",
+    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md",
+    "web_picoCTF/parte2/Sin título.md",
     "retos_bandit/Bandit Level 9 → Level 10.md",
     "web_picoCTF/parte2/irish_name_repo2/Irish-Name-Repo2.md",
     "web_picoCTF/parte2/irish_name_repo1/Irish-Name-Repo1.md",
@@ -191,19 +191,9 @@
     "web_picoCTF/parte1/logon/Log-on.md",
     "web_picoCTF/parte1/where_are_the_robots/Where-are-the-robots.md",
     "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md",
-    "web_picoCTF/parte1",
-    "web_picoCTF/parte1/client_side_again",
-    "web_picoCTF/parte1/picobrowser",
     "picoCTF/useless/Useless.md",
     "picoCTF/special/Special.md",
     "picoCTF/serpentine/Serpentine.md",
-    "picoCTF/pw_crack_3/PW-crack-3.md",
-    "picoCTF/plumbing/Plumbing.md",
-    "picoCTF/permissions/Permissions.md",
-    "picoCTF/chrono/Chrono.md",
-    "picoCTF/based/Based.md",
-    "picoCTF/ascii_numbers/ASCII-Numbers.md",
-    "picoCTF/lets_warm_up/LetsWarmUP.md",
-    "picoCTF/whats_a_netcat/Whats-a-netcat.md"
+    "picoCTF/pw_crack_3/PW-crack-3.md"
   ]
 }
