@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/what_lies_within/What-lies-within.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be896a1ab4e253fe",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/what_lies_within/What-lies-within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/what_lies_within/What-lies-within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/extensions/Extensions.md"
+                "file": "forensic/what_lies_within/What-lies-within.md"
               }
             }
           }
@@ -149,13 +148,19 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
-    "forensic/extensions/Pasted image 20241003183126.png",
+    "forensic/what_lies_within/picture/buildings.png",
+    "forensic/what_lies_within/picture",
+    "forensic/so_meta/So-Meta.md",
+    "forensic/what_lies_within/What-lies-within.md",
+    "forensic/extensions/Extensions.md",
     "forensic/files/flag.png",
+    "forensic/extensions/files/flag.png",
+    "forensic/extensions/files",
+    "forensic/extensions/Pasted image 20241003183126.png",
     "forensic/files/flag.txt",
     "forensic/extensions/Pasted image 20241003182448.png",
     "forensic/files",
     "forensic/glory_of_the_garden/Glory-of-the-garden.md",
-    "forensic/extensions/Extensions.md",
     "forensic/shark_on_wire1/Shark-on-wire-1.md",
     "forensic/shark_on_wire1/Pasted image 20241003181125.png",
     "forensic/shark_on_wire1/Pasted image 20241003181104.png",
@@ -165,16 +170,11 @@
     "forensic/shark_on_wire1/Pasted image 20241003175856.png",
     "forensic/shark_on_wire1/files/capture.pcap",
     "forensic/shark_on_wire1/files",
-    "forensic/glory_of_the_garden/picture/garden.jpg",
-    "forensic/glory_of_the_garden/picture/pico_img.png",
     "forensic/glory_of_the_garden/picture",
-    "forensic/so_meta/So-Meta.md",
     "forensic/so_meta/picture",
     "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
     "forensic/what_lies_within",
     "forensic/shark_on_wire1",
-    "forensic/glory_of_the_garden",
-    "forensic/extensions",
     "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
     "web_picoCTF/parte4/trickster/Trickster.md",
     "web_picoCTF/parte4/soap/SOAP.md",
@@ -193,7 +193,6 @@
     "web_picoCTF/parte1/dont_use_client_side/Dont-use-client-side.md",
     "web_picoCTF/parte1/logon/Log-on.md",
     "web_picoCTF/parte1/where_are_the_robots/Where-are-the-robots.md",
-    "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md",
-    "picoCTF/useless/Useless.md"
+    "web_picoCTF/parte1/in5p3ct0r/In5p3ct0r.md"
   ]
 }
