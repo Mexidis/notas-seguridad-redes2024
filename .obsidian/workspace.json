@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/whitepages/whitepages.md",
+                "file": "forensic/corrupt/corrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/whitepages/whitepages.md",
+                "file": "forensic/corrupt/corrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/whitepages/whitepages.md",
+                "file": "forensic/corrupt/corrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/whitepages/whitepages.md"
+                "file": "forensic/corrupt/corrupt.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
+    "forensic/whitepages/whitepages.md",
+    "forensic/corrupt/corrupt.md",
+    "forensic/corrupt",
     "forensic/whitepages/whitepages.txt",
     "forensic/moonwalk/m00nwalk.md",
-    "forensic/whitepages/whitepages.md",
     "forensic/whitepages",
     "forensic/moonwalk/flag.jpg",
     "forensic/moonwalk/message.wav.1",
@@ -174,8 +176,6 @@
     "forensic/shark_on_wire1/Pasted image 20241003181018.png",
     "forensic/shark_on_wire1/Pasted image 20241003180908.png",
     "forensic/shark_on_wire1/files/capture.pcap",
-    "forensic/shark_on_wire1/files",
-    "forensic/glory_of_the_garden/picture",
     "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
     "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
     "web_picoCTF/parte4/trickster/Trickster.md",
