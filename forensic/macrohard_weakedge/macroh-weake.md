@@ -212,7 +212,17 @@ flag: picoCTF{D1d_u_kn0w_ppts_r_z1p5}
 Descargamos el archivo y nos damos cuenta que tiene un archivo oculto en su compresión. Para ello descomprimimos y damos un `cat` al archivo lo que nos trae una cadena encriptada en `base64` por lo tanto quitamos los espacios y luego desencriptamos.
 
 # comandos utilizados
-- 
+1. **Mostrar el contenido del archivo `hidden`**:
+    - Se usó el comando `cat hidden` para ver el contenido del archivo. El archivo contenía lo que parece ser una cadena en base64: `Z m x h Z z o g c G l j b 0 N U R n t E M W R f d V 9 r b j B 3 X 3 B w d H N f c l 9 6 M X A 1 f Q`.
+      
+2. **Eliminar los espacios**:
+    - Luego, se usó el comando `tr -d ' '` para eliminar los espacios de la cadena anterior. El resultado fue: `ZmxhZzogcGljb0NURntEMWRfdV9rbjB3X3BwdHNfcl96MXA1fQ`.
+      
+3. **Decodificar la cadena en base64**:
+    - Después de quitar los espacios, la cadena resultante se pasó por `base64 -d` para decodificarla desde base64. Esto produjo el mensaje: `flag: picoCTF{D1d_u_kn0w_ppts_r_z1p5}`.
+    - Sin embargo, aparece un mensaje de error: "base64: invalid input", lo que sugiere que había un carácter adicional o faltante al final que causó problemas en la decodificación. A pesar de eso, el flag fue extraído correctamente.
+
+En resumen, el propósito era descubrir un flag oculto en un archivo, que estaba codificado en base64 y ofuscado con espacios.
 
 ## Referencias
 - 
