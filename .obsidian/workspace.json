@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/corrupt/corrupt.md",
+                "file": "forensic/extensions/Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/corrupt/corrupt.md",
+                "file": "forensic/extensions/Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/corrupt/corrupt.md",
+                "file": "forensic/extensions/Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/corrupt/corrupt.md"
+                "file": "forensic/extensions/Extensions.md"
               }
             }
           }
@@ -148,34 +148,36 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
-    "forensic/whitepages/whitepages.md",
+    "forensic/like1000/like1000.md",
+    "forensic/like1000/Pasted image 20241008211716.png",
+    "forensic/like1000/941.tar",
+    "forensic/like1000/942.tar",
+    "forensic/like1000/943.tar",
+    "forensic/like1000/944.tar",
+    "forensic/like1000/945.tar",
+    "forensic/like1000/946.tar",
+    "forensic/like1000/947.tar",
+    "forensic/like1000/948.tar",
+    "forensic/like1000/949.tar",
+    "forensic/like1000/950.tar",
+    "forensic/sharkonwire2/shark2.md",
     "forensic/corrupt/corrupt.md",
-    "forensic/corrupt",
-    "forensic/whitepages/whitepages.txt",
+    "forensic/so_meta/So-Meta.md",
+    "forensic/corrupt/Pasted image 20241008205125.png",
+    "forensic/whitepages/whitepages.md",
     "forensic/moonwalk/m00nwalk.md",
-    "forensic/whitepages",
     "forensic/moonwalk/flag.jpg",
-    "forensic/moonwalk/message.wav.1",
-    "forensic/moonwalk/message.wav",
     "forensic/glory_of_the_garden/Glory-of-the-garden.md",
     "forensic/what_lies_within/What-lies-within.md",
     "forensic/what_lies_within/picture/buildings.png",
-    "forensic/what_lies_within/picture",
-    "forensic/so_meta/So-Meta.md",
     "forensic/extensions/Extensions.md",
     "forensic/files/flag.png",
     "forensic/extensions/files/flag.png",
-    "forensic/extensions/files",
     "forensic/extensions/Pasted image 20241003183126.png",
-    "forensic/files/flag.txt",
     "forensic/extensions/Pasted image 20241003182448.png",
-    "forensic/files",
     "forensic/shark_on_wire1/Shark-on-wire-1.md",
     "forensic/shark_on_wire1/Pasted image 20241003181125.png",
     "forensic/shark_on_wire1/Pasted image 20241003181104.png",
-    "forensic/shark_on_wire1/Pasted image 20241003181018.png",
-    "forensic/shark_on_wire1/Pasted image 20241003180908.png",
-    "forensic/shark_on_wire1/files/capture.pcap",
     "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
     "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
     "web_picoCTF/parte4/trickster/Trickster.md",
@@ -190,9 +192,6 @@
     "retos_bandit/Bandit Level 9 → Level 10.md",
     "web_picoCTF/parte2/irish_name_repo2/Irish-Name-Repo2.md",
     "web_picoCTF/parte2/irish_name_repo1/Irish-Name-Repo1.md",
-    "web_picoCTF/parte1/client_side_again/Client-side-again.md",
-    "web_picoCTF/parte1/picobrowser/picobrowser.md",
-    "web_picoCTF/parte1/dont_use_client_side/Dont-use-client-side.md",
-    "web_picoCTF/parte1/logon/Log-on.md"
+    "web_picoCTF/parte1/client_side_again/Client-side-again.md"
   ]
 }
