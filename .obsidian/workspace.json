@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "matryoshka-doll"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de matryoshka-doll"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de matryoshka-doll"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/extensions/Extensions.md"
-              }
+                "file": "forensic/matryoshkadoll/matryoshka-doll.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de matryoshka-doll"
             }
           }
         ]
@@ -148,36 +164,42 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
-    "forensic/like1000/like1000.md",
-    "forensic/like1000/Pasted image 20241008211716.png",
-    "forensic/like1000/941.tar",
-    "forensic/like1000/942.tar",
-    "forensic/like1000/943.tar",
-    "forensic/like1000/944.tar",
-    "forensic/like1000/945.tar",
-    "forensic/like1000/946.tar",
-    "forensic/like1000/947.tar",
-    "forensic/like1000/948.tar",
-    "forensic/like1000/949.tar",
-    "forensic/like1000/950.tar",
+    "metaredCTF/uhhaha/foto.png",
     "forensic/sharkonwire2/shark2.md",
-    "forensic/corrupt/corrupt.md",
     "forensic/so_meta/So-Meta.md",
-    "forensic/corrupt/Pasted image 20241008205125.png",
-    "forensic/whitepages/whitepages.md",
-    "forensic/moonwalk/m00nwalk.md",
-    "forensic/moonwalk/flag.jpg",
-    "forensic/glory_of_the_garden/Glory-of-the-garden.md",
-    "forensic/what_lies_within/What-lies-within.md",
-    "forensic/what_lies_within/picture/buildings.png",
-    "forensic/extensions/Extensions.md",
-    "forensic/files/flag.png",
-    "forensic/extensions/files/flag.png",
-    "forensic/extensions/Pasted image 20241003183126.png",
-    "forensic/extensions/Pasted image 20241003182448.png",
+    "forensic/tunnelvision/tunnel-vision.md",
+    "metaredCTF/uhhaha/r2.7z",
+    "metaredCTF/uhhaha/image.png",
     "forensic/shark_on_wire1/Shark-on-wire-1.md",
-    "forensic/shark_on_wire1/Pasted image 20241003181125.png",
-    "forensic/shark_on_wire1/Pasted image 20241003181104.png",
+    "forensic/macrohard_weakedge/macroh-weake.md",
+    "metaredCTF/uhhaha/r4.pcap",
+    "metaredCTF/uhhaha/descarguilla",
+    "metaredCTF/uhhaha",
+    "forensic/corrupt/corrupt.md",
+    "forensic/whitepages/whitepages.md",
+    "forensic/what_lies_within/What-lies-within.md",
+    "forensic/webnet0/webnet0.md",
+    "forensic/webnet1/webnet1.md",
+    "forensic/webnet1/vulture.jpg",
+    "forensic/webnet1/picopico.key",
+    "forensic/webnet1/Pasted image 20241009112322.png",
+    "forensic/webnet1/capture.pcap",
+    "forensic/webnet1",
+    "forensic/webnet0/picopico.key",
+    "forensic/webnet0/Pasted image 20241009111009.png",
+    "forensic/webnet0/capture.pcap",
+    "forensic/webnet0",
+    "forensic/tunnelvision/Pasted image 20241009104248.png",
+    "forensic/matryoshkadoll/base_images/base_images/base_images/4_c.jpg",
+    "forensic/matryoshkadoll/base_images/base_images/3_c.jpg",
+    "forensic/matryoshkadoll/base_images/2_c.jpg",
+    "forensic/matryoshkadoll/matryoshka-doll.md",
+    "forensic/matryoshkadoll/dolls.jpg",
+    "forensic/macrohard_weakedge/docProps/thumbnail.jpeg",
+    "forensic/moonwalk/m00nwalk.md",
+    "forensic/like1000/like1000.md",
+    "forensic/extensions/Extensions.md",
+    "forensic/glory_of_the_garden/Glory-of-the-garden.md",
     "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
     "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
     "web_picoCTF/parte4/trickster/Trickster.md",
@@ -187,11 +209,6 @@
     "README.md",
     "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
     "web_picoCTF/parte2/jawt_scratchpad/JaWT_Scratchpad.md",
-    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md",
-    "web_picoCTF/parte2/Sin título.md",
-    "retos_bandit/Bandit Level 9 → Level 10.md",
-    "web_picoCTF/parte2/irish_name_repo2/Irish-Name-Repo2.md",
-    "web_picoCTF/parte2/irish_name_repo1/Irish-Name-Repo1.md",
-    "web_picoCTF/parte1/client_side_again/Client-side-again.md"
+    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md"
   ]
 }
