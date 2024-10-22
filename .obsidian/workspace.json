@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/extensions/Extensions.md",
+                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/extensions/Extensions.md"
+                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "946f721b4054223a",
   "lastOpenFiles": [
+    "crypto/rsa_pop_quiz/exp.py",
+    "forensic/extensions/Extensions.md",
+    "crypto/algo",
     "forensic/like1000/like1000.md",
     "forensic/like1000/Pasted image 20241008211716.png",
     "forensic/like1000/941.tar",
@@ -159,7 +162,6 @@
     "forensic/like1000/947.tar",
     "forensic/like1000/948.tar",
     "forensic/like1000/949.tar",
-    "forensic/like1000/950.tar",
     "forensic/sharkonwire2/shark2.md",
     "forensic/corrupt/corrupt.md",
     "forensic/so_meta/So-Meta.md",
@@ -170,7 +172,6 @@
     "forensic/glory_of_the_garden/Glory-of-the-garden.md",
     "forensic/what_lies_within/What-lies-within.md",
     "forensic/what_lies_within/picture/buildings.png",
-    "forensic/extensions/Extensions.md",
     "forensic/files/flag.png",
     "forensic/extensions/files/flag.png",
     "forensic/extensions/Pasted image 20241003183126.png",
