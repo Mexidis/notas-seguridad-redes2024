@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "3b2f8f3dec0ed9eb",
+    "id": "e71ad748a7e5bc9b",
     "type": "split",
     "children": [
       {
-        "id": "189487717a4eef78",
+        "id": "5d65555da17d9d02",
         "type": "tabs",
         "children": [
           {
-            "id": "946f721b4054223a",
+            "id": "24a3190bb3fcb490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
-                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
+                "file": "crypto/miniRSA/minirsa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matryoshka-doll"
+              "title": "minirsa"
             }
           }
         ]
@@ -28,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3264e02570f84b50",
+    "id": "c637f4e83b28905a",
     "type": "split",
     "children": [
       {
-        "id": "e8e6811ad85488fe",
+        "id": "310b0da673472289",
         "type": "tabs",
         "children": [
           {
-            "id": "c77d188fdf46cb1f",
+            "id": "e134ccf32c90577d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "86f004607cee17fa",
+            "id": "9b9b55a4575a066d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "f323648b037f0a99",
+            "id": "e5d6d5d2b2fef554",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,27 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "be896a1ab4e253fe",
+    "id": "1ae0a49ab4e2252d",
     "type": "split",
     "children": [
       {
-        "id": "e43f923210294c2d",
+        "id": "ee55a911aac8a609",
         "type": "tabs",
         "children": [
           {
-            "id": "84f34b1dc95aec55",
+            "id": "41f029b47e3a9d21",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
-=======
-                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
->>>>>>> 823a338669115248cd4f50dae9f36ba62f24859d
+                "file": "crypto/miniRSA/minirsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,29 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de matryoshka-doll"
+              "title": "Enlaces entrantes de minirsa"
             }
           },
           {
-            "id": "8ce1072b8326d948",
+            "id": "7cfd160d5a19cdcd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "forensic/matryoshkadoll/matryoshka-doll.md",
-=======
-                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
->>>>>>> 823a338669115248cd4f50dae9f36ba62f24859d
+                "file": "crypto/miniRSA/minirsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de matryoshka-doll"
+              "title": "Enlaces salientes de minirsa"
             }
           },
           {
-            "id": "0e44bfb6a0b99d96",
+            "id": "33f84547e1cf971a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,20 +134,15 @@
             }
           },
           {
-            "id": "0dbe3e135a025201",
+            "id": "79b236a9515a558c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "forensic/matryoshkadoll/matryoshka-doll.md"
+                "file": "crypto/miniRSA/minirsa.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de matryoshka-doll"
-=======
-                "file": "crypto/rsa_pop_quiz/rsa-pop-quiz.md"
-              }
->>>>>>> 823a338669115248cd4f50dae9f36ba62f24859d
+              "title": "Esquema de minirsa"
             }
           }
         ]
@@ -176,84 +162,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "946f721b4054223a",
+  "active": "24a3190bb3fcb490",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "metaredCTF/uhhaha/foto.png",
-=======
-    "crypto/rsa_pop_quiz/exp.py",
-    "forensic/extensions/Extensions.md",
-    "crypto/algo",
-    "forensic/like1000/like1000.md",
-    "forensic/like1000/Pasted image 20241008211716.png",
-    "forensic/like1000/941.tar",
-    "forensic/like1000/942.tar",
-    "forensic/like1000/943.tar",
-    "forensic/like1000/944.tar",
-    "forensic/like1000/945.tar",
-    "forensic/like1000/946.tar",
-    "forensic/like1000/947.tar",
-    "forensic/like1000/948.tar",
-    "forensic/like1000/949.tar",
->>>>>>> 823a338669115248cd4f50dae9f36ba62f24859d
-    "forensic/sharkonwire2/shark2.md",
-    "forensic/so_meta/So-Meta.md",
-<<<<<<< HEAD
-    "forensic/tunnelvision/tunnel-vision.md",
-    "metaredCTF/uhhaha/r2.7z",
-    "metaredCTF/uhhaha/image.png",
-=======
-    "forensic/corrupt/Pasted image 20241008205125.png",
-    "forensic/whitepages/whitepages.md",
-    "forensic/moonwalk/m00nwalk.md",
-    "forensic/moonwalk/flag.jpg",
-    "forensic/glory_of_the_garden/Glory-of-the-garden.md",
-    "forensic/what_lies_within/What-lies-within.md",
-    "forensic/what_lies_within/picture/buildings.png",
-    "forensic/files/flag.png",
-    "forensic/extensions/files/flag.png",
-    "forensic/extensions/Pasted image 20241003183126.png",
-    "forensic/extensions/Pasted image 20241003182448.png",
->>>>>>> 823a338669115248cd4f50dae9f36ba62f24859d
-    "forensic/shark_on_wire1/Shark-on-wire-1.md",
-    "forensic/macrohard_weakedge/macroh-weake.md",
-    "metaredCTF/uhhaha/r4.pcap",
-    "metaredCTF/uhhaha/descarguilla",
-    "metaredCTF/uhhaha",
-    "forensic/corrupt/corrupt.md",
-    "forensic/whitepages/whitepages.md",
-    "forensic/what_lies_within/What-lies-within.md",
-    "forensic/webnet0/webnet0.md",
-    "forensic/webnet1/webnet1.md",
-    "forensic/webnet1/vulture.jpg",
-    "forensic/webnet1/picopico.key",
-    "forensic/webnet1/Pasted image 20241009112322.png",
-    "forensic/webnet1/capture.pcap",
-    "forensic/webnet1",
-    "forensic/webnet0/picopico.key",
-    "forensic/webnet0/Pasted image 20241009111009.png",
-    "forensic/webnet0/capture.pcap",
-    "forensic/webnet0",
-    "forensic/tunnelvision/Pasted image 20241009104248.png",
-    "forensic/matryoshkadoll/base_images/base_images/base_images/4_c.jpg",
-    "forensic/matryoshkadoll/base_images/base_images/3_c.jpg",
-    "forensic/matryoshkadoll/base_images/2_c.jpg",
-    "forensic/matryoshkadoll/matryoshka-doll.md",
-    "forensic/matryoshkadoll/dolls.jpg",
-    "forensic/macrohard_weakedge/docProps/thumbnail.jpeg",
-    "forensic/moonwalk/m00nwalk.md",
-    "forensic/like1000/like1000.md",
-    "forensic/extensions/Extensions.md",
-    "forensic/glory_of_the_garden/Glory-of-the-garden.md",
-    "web_picoCTF/parte4/most_cookies/Most-Cookies.md",
-    "web_picoCTF/parte4/matchtheregex/MatchTheRegex.md",
-    "web_picoCTF/parte4/trickster/Trickster.md",
-    "web_picoCTF/parte4/soap/SOAP.md",
-    "web_picoCTF/parte3/cokies/cookies.md",
-    "web_picoCTF/parte3/get_ahead/GET_aHEAD.md",
-    "README.md",
-    "web_picoCTF/parte3/scavenger_hunt/Scavenger-Hunt.md",
-    "web_picoCTF/parte2/jawt_scratchpad/JaWT_Scratchpad.md",
-    "web_picoCTF/parte2/irish_name_repo3/Irish-Name-Repo3.md"
+    "crypto/miniRSA/expl.py",
+    "crypto/miniRSA/myenv/lib/python3.12/site-packages",
+    "crypto/miniRSA/myenv/lib/python3.12",
+    "crypto/miniRSA/myenv/include/python3.12",
+    "crypto/miniRSA/myenv/lib",
+    "crypto/miniRSA/myenv/include",
+    "crypto/miniRSA/myenv",
+    "crypto/miniRSA/ciphertext",
+    "crypto/rsa_pop_quiz/rsa-pop-quiz.md",
+    "crypto/miniRSA/minirsa.md",
+    "crypto/miniRSA"
   ]
 }
