@@ -48,4 +48,4 @@ flag: 0x669B
 ## Notas Adicionales
 
 ## Referencias
-- 
+-  [Emulador-Assembly](https://carlosrafaelgn.com.br/Asm86/)
