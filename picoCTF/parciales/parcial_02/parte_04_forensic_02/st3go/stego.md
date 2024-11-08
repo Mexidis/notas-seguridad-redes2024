@@ -30,4 +30,4 @@ flag: picoCTF{7h3r3_15_n0_5p00n_96ae0ac1}
 ## Notas Adicionales
 
 ## Referencias
--  [Stego-python-help](https://github.com/djrobin17/image-stego-tool)
+-  
