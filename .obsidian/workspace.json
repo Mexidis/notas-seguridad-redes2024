@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/ppp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "ppp"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/lookey_here.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lookey_here"
+              "title": "plantilla"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +176,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "769b6e4067208b31",
+  "active": "bbd35844f9d69416",
   "lastOpenFiles": [
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/anthem.flag.txt",
+    "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/Pasted image 20241107181148.png",
+    "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/suspicious.dd.sda1",
     "plantilla.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/lookey_here.md",
+    "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/ppp.md",
+    "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/anthem.flag.txt",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/pcap_poisoning/pcap-poisoning.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/secret_of_the_polyglot/secret-of-polyglot.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/secret_of_the_polyglot/Pasted image 20241107111724.png",
@@ -204,9 +206,7 @@
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/msb/Sin confirmar 317067.crdownload",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/msb/Pasted image 20241106010131.png",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/msb/Pasted image 20241106010109.png",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/msb/sigBits.py",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/find_and_open/find-and-open.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/find_and_open/find-and-open.pdf",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/enhance/enhance.md",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/eavesdrop/eavesdrop.md",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/information/information.md",
@@ -223,7 +223,6 @@
     "picoCTF/categorias/forensic/parte_04/milkslap/milkslap.md",
     "picoCTF/categorias/forensic/parte_04/disk_disk_sleuth/disk-disk-sleuth.md",
     "picoCTF/categorias/forensic/parte_03/webnet1/webnet1.md",
-    "picoCTF/categorias/forensic/parte_03/webnet0/webnet0.md",
-    "picoCTF/categorias/forensic/parte_03/tunnelvision/tunnel-vision.md"
+    "picoCTF/categorias/forensic/parte_03/webnet0/webnet0.md"
   ]
 }
