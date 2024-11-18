@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/buffer-overflow-0.md",
+                "file": "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buffer-overflow-0"
-            }
-          },
-          {
-            "id": "769b6e4067208b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "Flags"
             }
           }
         ]
@@ -178,51 +164,51 @@
   },
   "active": "bbd35844f9d69416",
   "lastOpenFiles": [
-    "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/flag.txt",
-    "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/vuln.c",
-    "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/vuln",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.pdf",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/flag.txt",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117191011.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117190822.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117190230.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117185954.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117185824.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/flag.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/C3.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/Pasted image 20241116201052.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/file.py",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/convert2.py",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/convert.py",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/ciphertext",
+    "picoCTF/categorias/binary_explotation/parte_02/clutter_overflow/clutter-overflow.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/no_padding_no_problem/plantilla.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/plantilla.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/plantilla.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/plantilla.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/plantilla.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/no_padding_no_problem",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags",
+    "picoCTF/categorias/binary_explotation/parte_02/buffer_overflow_1/buffer-overflow-01.md",
     "plantilla.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/buffer-overflow-0.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/basic_file_exploit/bfe.md",
-    "picoCTF/categorias/Binary_Explotation/parte_01/basic_file_exploit/vuln",
-    "picoCTF/categorias/Binary_Explotation/parte_01/basic_file_exploit/program-redacted.c",
     "picoCTF/categorias/Binary_Explotation/parte_01/stonks/stonks.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/stonks/Pasted image 20241111110548.png",
-    "picoCTF/categorias/Binary_Explotation/parte_01/stonks/vuln.c",
     "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/flag-leak.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/Pasted image 20241111105021.png",
-    "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/flag.txt",
-    "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/vuln.c",
-    "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/vuln",
     "picoCTF/categorias/crypto/parte_02/b00tl3gRSA2/bootlegrsa2.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/rps/rps.md",
-    "picoCTF/categorias/Binary_Explotation/parte_01/rps/exploit.py",
-    "picoCTF/categorias/Binary_Explotation/parte_01/rps/game-redacted.c",
     "picoCTF/categorias/Binary_Explotation/rps/rps.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/wireshark_02/wiresharky-2.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/stego.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/Pasted image 20241107183350.png",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/Pasted image 20241107182848.png",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/pico.flag.png",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/redaction_gone_wrong/redaction-gone-wrong.md",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/redaction_gone_wrong/Pasted image 20241107182345.png",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/redaction_gone_wrong/Pasted image 20241107182238.png",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/ppp.md",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/Pasted image 20241107181148.png",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/lookey_here.md",
     "picoCTF/parciales/parcial_02/parte_03_forensic_01/pcap_poisoning/pcap-poisoning.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/secret_of_the_polyglot/secret-of-polyglot.md",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/secret_of_the_polyglot/Pasted image 20241107111724.png",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/secret_of_the_polyglot/flag2of2-final.png",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/packets_primer/packets_primer.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/msb/msb.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/find_and_open/find-and-open.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/enhance/enhance.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/eavesdrop/eavesdrop.md",
-    "picoCTF/parciales/parcial_02/parte_03_forensic_01/information/information.md",
-    "picoCTF/categorias/crypto/parte_03/read_my_cert/read-my-cert.md",
-    "picoCTF/categorias/crypto/parte_03/pixelated/pixelated.md",
-    "picoCTF/categorias/crypto/parte_03/mind_your_ps_and_qs/mind-your-Ps-Qs.md",
-    "picoCTF/categorias/crypto/parte_02/miniRSA/minirsa.md"
+    "picoCTF/parciales/parcial_02/parte_03_forensic_01/packets_primer/packets_primer.md"
   ]
 }
