@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/Mr-Worldwide.md",
+                "file": "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/New-Caesar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mr-Worldwide"
+              "title": "New-Caesar"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "bbd35844f9d69416",
   "lastOpenFiles": [
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/new_caesar.py",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/Mr-Worldwide.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/Pasted image 20241117193015.png",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/message.txt",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/john_pollard.md",
@@ -189,15 +191,13 @@
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/c3/ciphertext",
     "picoCTF/categorias/binary_explotation/parte_02/clutter_overflow/clutter-overflow.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/no_padding_no_problem/plantilla.md",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/plantilla.md",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/Mr-Worldwide.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/New-Caesar.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/plantilla.md",
     "picoCTF/categorias/binary_explotation/parte_02/buffer_overflow_1/buffer-overflow-01.md",
     "plantilla.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/buffer-overflow-0.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/basic_file_exploit/bfe.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/stonks/stonks.md",
-    "picoCTF/categorias/Binary_Explotation/parte_01/stonks/Pasted image 20241111110548.png",
     "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/flag-leak.md",
     "picoCTF/categorias/crypto/parte_02/b00tl3gRSA2/bootlegrsa2.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/rps/rps.md",

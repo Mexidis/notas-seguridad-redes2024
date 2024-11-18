@@ -5,8 +5,6 @@ A musician left us a [message](https://jupiter.challenges.picoctf.org/static/d5
 - (None)
 ## Solución
 
-![[Pasted image 20241117193015.png]]
-
 ```txt
 picoCTF{
     35.028309, 135.753082
