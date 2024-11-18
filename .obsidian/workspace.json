@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.md",
+                "file": "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/john_pollard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flags"
+              "title": "john_pollard"
             }
           }
         ]
@@ -164,6 +164,12 @@
   },
   "active": "bbd35844f9d69416",
   "lastOpenFiles": [
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/john_pollard.pdf",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/Pasted image 20241117191937.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/Pasted image 20241117191836.png",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/cert.pub",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/cert",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.pdf",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/flag.txt",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Pasted image 20241117191011.png",
@@ -182,14 +188,10 @@
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/no_padding_no_problem/plantilla.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar/plantilla.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide/plantilla.md",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/plantilla.md",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags/Flags.md",
+    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard/john_pollard.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/plantilla.md",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/no_padding_no_problem",
     "picoCTF/parciales/parcial_03/parte_01_crypto_01/new_ceasar",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/mr_worldwide",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/john_pollard",
-    "picoCTF/parciales/parcial_03/parte_01_crypto_01/flags",
     "picoCTF/categorias/binary_explotation/parte_02/buffer_overflow_1/buffer-overflow-01.md",
     "plantilla.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/buffer_overflow_0/buffer-overflow-0.md",
@@ -197,13 +199,11 @@
     "picoCTF/categorias/Binary_Explotation/parte_01/stonks/stonks.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/stonks/Pasted image 20241111110548.png",
     "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/flag-leak.md",
-    "picoCTF/categorias/Binary_Explotation/parte_01/flag_leak/Pasted image 20241111105021.png",
     "picoCTF/categorias/crypto/parte_02/b00tl3gRSA2/bootlegrsa2.md",
     "picoCTF/categorias/Binary_Explotation/parte_01/rps/rps.md",
     "picoCTF/categorias/Binary_Explotation/rps/rps.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/wireshark_02/wiresharky-2.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/stego.md",
-    "picoCTF/parciales/parcial_02/parte_04_forensic_02/st3go/Pasted image 20241107183350.png",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/redaction_gone_wrong/redaction-gone-wrong.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/pitter_patter_platters/ppp.md",
     "picoCTF/parciales/parcial_02/parte_04_forensic_02/lookey_here/lookey_here.md",
