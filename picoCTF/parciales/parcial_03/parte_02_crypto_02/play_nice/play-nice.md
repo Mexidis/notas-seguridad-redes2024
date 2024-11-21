@@ -33,7 +33,6 @@ Here is the encrypted message: 1x5hqlod8x7oa88h0de1b5r6xja5sd
 What is the plaintext message? lhxm62i5lwoi0rljor647xq9wh7wie
 Congratulations! Here's the flag: f391b621282ef5063ab2de93ab9e4bff
 
-
 ```
 
 Utilizando:
