@@ -137,9 +137,6 @@ PICOCTF{Good job keeping bus #24c43740 speeding along!}
 
 ```
 
-![[Pasted image 20241106111405.png]]
-![[Pasted image 20241106111653.png]]
-
 ## Bandera
 ```css
 flag: picoCTF{Good job keeping bus #24c43740 speeding along!}
